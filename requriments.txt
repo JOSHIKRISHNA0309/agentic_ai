@@ -1,0 +1,4 @@
+agno
+python-dotenv
+duckduckgo-search
+newspaper4k
